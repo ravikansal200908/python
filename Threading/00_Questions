@@ -1,0 +1,37 @@
+- What is multitask and multi-processing
+- What is process bases or thread based multi-tasking
+- What is thread? It's needs and applications?
+- How to check current working thread?
+- Different ways of creating threads?
+- Can we call another instance method at the time of thread execution?
+- Can we return value from thread?
+- Steps/method to assign name to thread.
+
+
+- What is need of join method?
+- What is race condition?
+- What is thread synchronization technique? It's types.
+- What is critical section of code?
+- How to implement lock?
+- Limitation of lock?
+- What is rlock? It's need and its' implementation?
+- Limitation of rlock?
+- What is semaphore? It's needs and implementation?
+
+
+- What will happen when exception occur in one thread? Will it impact other threads?
+- What is thread life cycle?
+
+
+- What is thread communication?
+- Different use of event object, condition object and queue object?
+
+
+- What are daemon threads?
+- How to create daemon threads? And it's usages.
+- How to check current thread is daemon or not?
+- How a thread get a daemon nature?
+
+
+- What is timer object?
+- What is barrier object and how to create it?
