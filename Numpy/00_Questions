@@ -1,0 +1,30 @@
+- What is numpy?
+- What we can do using numpy?
+- How to check numpy version?
+
+
+- What is numpy array?
+- How to create an array?
+- What is the meeaning of dimension?
+- How to crate ndarry?
+- How to check dimensions of array?
+- How to change dimensions of array?
+
+
+- What is scalar, vector, matrix and tensor?
+- Similarity and difference between numpy and list.
+- output for np.array([10, 20.5, "mohit"])
+
+
+- Various properties of array?
+- What is matrix?
+- What is square matrix?
+- What is identity matrix?
+
+
+- What is pseudo/True random number?
+- What is difference between random and rand?
+- What is difference between rand and randn?
+- Use of seed method?
+- Use of random choice? Explain it's attribute.
+- Difference between shuffle and permutation.
