@@ -1,0 +1,14 @@
+- What is Regex?
+- Use of Regex?
+
+- Difference between string and raw string?
+- Ways of using regular expression?
+- Difference between search and match?
+- What is purpose of using compile method?
+- findall vs finditer?
+- What is non-overlapping match in regular expression?
+- What is character classe?
+- What is special sequences and it's use?
+- Metacharacters/symbol in python?
+- What are of flags?
+- What are of Quantiifiers?
