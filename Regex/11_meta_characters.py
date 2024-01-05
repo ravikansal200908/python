@@ -23,7 +23,7 @@ data = "Hello world, i am ravi kansal."
 # pattern = r"l"
 # pattern = r"l+"  # either 1 or more than 1
 # pattern = r"he+"  # h will occure 1 time and e can occur 1 or more time
-pattern = r"he)+"  # he both can occur 1 or more time
+pattern = r"h+e+"  # he both can occur 1 or more time
 
 
 data = "marks are 90,45,67,333,21"

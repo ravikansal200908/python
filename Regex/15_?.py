@@ -21,7 +21,7 @@ print(f"{result=}")
 
 # ex-2 validate all URL
 urls = ['http://Exam.com', 'https://example123.com', 'htttp://fileserver.com']
-pattern = r"\d{3}-?\d{3}-?\d{4}"
+pattern = r"https?://\w+\.\w+"
 
 for url in urls:
     if result := re.findall(pattern, url):
